@@ -9,9 +9,16 @@ my projects
 
 - 🌱 pysvl - python space vehicle library
     - a python library for doing calculations related to rockets, satellites or any space vehicle, calculating their path, designing them, comes wwith some preset rockets and more
+        - [pysvl on github](https://github.com/InfinityScienceWorks/pysvl)
+        - [pysvl on pypi](https://pypi.org/project/pysvl)
+        - [pysvl on libraries.io](https://libraries.io/pypi/pysvl)
+
+<br>
 
 - 🌱 pyaeroplane
     - a python library for aeroplanes, helicopters and flying machines, can be used for doing calculations used in making or during flight, comes with large preset database and much more
+
+<br>
 
 - 🌴 more new projects comming....
 
